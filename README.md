@@ -2,7 +2,7 @@
 
 ## Deskripsi Aplikasi
 
-Aplikasi **Futsal Arena** adalah aplikasi mobile berbasis Flutter untuk melakukan booking lapangan futsal secara online. Aplikasi ini memudahkan pengguna dalam memesan lapangan, melihat daftar booking, serta mengelola data pemesanan dengan integrasi Supabase sebagai backend.
+Aplikasi Futsal Arena adalah aplikasi mobile berbasis Flutter yang dikembangkan untuk memudahkan proses booking lapangan futsal secara online. Aplikasi ini hadir sebagai solusi digital bagi pengelola lapangan futsal dalam mengelola pemesanan, serta memudahkan pelanggan (admin) untuk melakukan reservasi lapangan dengan cepat dan efisien.
 
 ---
 
@@ -15,17 +15,39 @@ Aplikasi **Futsal Arena** adalah aplikasi mobile berbasis Flutter untuk melakuka
 - **Validasi Form** - Validasi input email dan password
 - **Error Handling** - Pesan error yang ramah pengguna
 
+<p align="center">
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (10)" src="https://github.com/user-attachments/assets/13e69d3d-abe5-4836-9681-12f300355a68" />
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (11)" src="https://github.com/user-attachments/assets/dc444e1d-bb9c-410b-bfb2-b3c863878142" />
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (12)" src="https://github.com/user-attachments/assets/41e1912c-65ff-494d-8999-916e8d6f71bd" />
+</p>
+
+
 ### 📅 **Manajemen Booking**
 - **Tambah Booking** - Membuat pemesanan lapangan baru
 - **Lihat Booking** - Menampilkan daftar booking yang sudah dibuat
 - **Edit Booking** - Mengubah data booking yang sudah ada
 - **Hapus Booking** - Menghapus data booking dengan konfirmasi
 
+<p align="center">
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (7)" src="https://github.com/user-attachments/assets/d2b3e1b2-f46e-4d6d-ad2c-46dcb30d52e2" />
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (6)" src="https://github.com/user-attachments/assets/0712e8d8-f7a0-4ab3-8c02-1b674c24213b" />
+</p>
+
+<p align="center">
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (8)" src="https://github.com/user-attachments/assets/a53aeb75-53e6-41c2-b54f-3f2c3d8b2870" />
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (9)" src="https://github.com/user-attachments/assets/546f5315-308f-488a-852d-920d144ecb64" />
+</p
+
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (8)" src="https://github.com/user-attachments/assets/a53aeb75-53e6-41c2-b54f-3f2c3d8b2870" />
+
 ### 📋 **Form Pemesanan**
 - **Input Nama** - Nama pemesan (hanya huruf)
 - **Input Nomor HP** - Format nomor HP dengan auto-formatting
 - **Pilih Lapangan** - Dropdown pilihan lapangan (1-4)
 - **Input Jam** - Format jam booking (contoh: 13.20-15.00)
+<p align="center">
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (7)" src="https://github.com/user-attachments/assets/d2b3e1b2-f46e-4d6d-ad2c-46dcb30d52e2" />
+</p>
 
 ### 🎨 **Tampilan & Tema**
 - **Light Mode** - Tema terang untuk siang hari
@@ -33,11 +55,10 @@ Aplikasi **Futsal Arena** adalah aplikasi mobile berbasis Flutter untuk melakuka
 - **Responsif** - Tampilan menyesuaikan berbagai ukuran layar
 - **Gradient Header** - Desain header dengan gradien warna
 - **Card Modern** - Tampilan card dengan bayangan halus
-
-### 📊 **Dashboard (Coming Soon)**
-- Statistik booking
-- Grafik pemesanan
-- Ringkasan data
+<p align="center">
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE)" src="https://github.com/user-attachments/assets/ba1268f4-bbd2-440d-b117-d064bb2f86de" />
+<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (6)" src="https://github.com/user-attachments/assets/0712e8d8-f7a0-4ab3-8c02-1b674c24213b" />
+</p>
 
 ---
 
@@ -109,7 +130,7 @@ Aplikasi **Futsal Arena** adalah aplikasi mobile berbasis Flutter untuk melakuka
 
 # Tampilan Aplikasi
 
-1. Tampilan Awal
+1. Tampilan login
 <p align="center">
 <img width="300" height="1333" alt="localhost_50602_(iPhone SE) (1)" src="https://github.com/user-attachments/assets/c60f32c6-7c90-4f2a-a6f9-24a58798d1c9" />
 </p>
@@ -142,37 +163,3 @@ Aplikasi **Futsal Arena** adalah aplikasi mobile berbasis Flutter untuk melakuka
 <p align="center">
 <img width="300" height="1333" alt="localhost_50602_(iPhone SE) (6)" src="https://github.com/user-attachments/assets/0712e8d8-f7a0-4ab3-8c02-1b674c24213b" />
 </p>
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (11)" src="https://github.com/user-attachments/assets/b219e2b5-09c0-4cf1-a981-8cb81ee31d9d" />
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (8)" src="https://github.com/user-attachments/assets/a53aeb75-53e6-41c2-b54f-3f2c3d8b2870" />
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (7)" src="https://github.com/user-attachments/assets/d2b3e1b2-f46e-4d6d-ad2c-46dcb30d52e2" />
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (6)" src="https://github.com/user-attachments/assets/0712e8d8-f7a0-4ab3-8c02-1b674c24213b" />
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (5)" src="https://github.com/user-attachments/assets/759fc9c8-4c31-4409-a675-b3a0632bff6d" />
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (4)" src="https://github.com/user-attachments/assets/57237ce7-9f90-4b45-bb0b-a22030022e2b" />
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (3)" src="https://github.com/user-attachments/assets/ad4d807d-9c10-4e24-8483-135330b65ab9" />
-
-
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (10)" src="https://github.com/user-attachments/assets/13e69d3d-abe5-4836-9681-12f300355a68" />
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (2)" src="https://github.com/user-attachments/assets/542c9fda-8f41-49cb-97a8-7f5b69944ffa" />
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (1)" src="https://github.com/user-attachments/assets/c60f32c6-7c90-4f2a-a6f9-24a58798d1c9" />
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE)" src="https://github.com/user-attachments/assets/ba1268f4-bbd2-440d-b117-d064bb2f86de" />
-
-
-
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (9)" src="https://github.com/user-attachments/assets/546f5315-308f-488a-852d-920d144ecb64" />
-
-
-
-<img width="300" height="1333" alt="localhost_50602_(iPhone SE) (11)" src="https://github.com/user-attachments/assets/dc444e1d-bb9c-410b-bfb2-b3c863878142" />
-</p>
-
