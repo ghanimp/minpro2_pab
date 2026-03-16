@@ -110,18 +110,3 @@ Aplikasi **Futsal Arena** adalah aplikasi mobile berbasis Flutter untuk melakuka
 | `FilteringTextInputFormatter` | Filter karakter input |
 
 ---
-
-## 🚀 Cara Instalasi & Menjalankan
-
-### **Prasyarat**
-- Flutter SDK (versi ^3.10.8)
-- Dart SDK
-- Android Studio / VS Code
-- Emulator atau device fisik
-
-### **Langkah-langkah**
-
-1. **Clone repository**
-   ```bash
-   git clone https://github.com/username/futsal-booking.git
-   cd futsal-booking
